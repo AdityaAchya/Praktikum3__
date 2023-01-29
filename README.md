@@ -9,7 +9,7 @@ Kelas : TI.22.C.9
 
 | No | Daftar Isi | Link |
 | -- | ---------- | ---- |
-| 1  | Latihan 1 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum3#latihan-1) |
+| 1  | Latihan 1 | [Click Here]https://github.com/AdityaAchya/Praktikum3#latihan-1)|
 | 2  | Latihan 2 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum3#latihan-2) |
 | 3  | Latihan 3 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum3#latihan-3) |
 | 4  | Latihan Menghitung Lingkaran | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum3#program-menghitung-luas-dan-keliling-lingkaran-menggunakan-python) |
