@@ -156,35 +156,37 @@ Output :
 
 1. Buat File Menghitung Luas Lingkaran
 
-![File](Foto/Buat%20File.png)
+![1](https://user-images.githubusercontent.com/123864099/215337301-c669084e-3fea-4327-873b-570fa2d56b7a.PNG)
+
 
 2. Memasukkan library math pada awal program (otomatisasi rumus phi tanpa mendekalarasikan)
 
-![Import](Foto/Import%20math.png)
+![2](https://user-images.githubusercontent.com/123864099/215337373-3b8f68d9-a5bf-490e-a760-9a3cf3a6e85f.PNG)
 
     #memasukkan libraries math
     import math
 
 3. Membuat judul awal program
 
-![Judul](Foto/Judul%20Program.png)
+![3](https://user-images.githubusercontent.com/123864099/215337381-f7b73ec1-23c2-4b9c-bb88-918395ca5c2b.PNG)
 
     print("")
     print("-------------------------------------------------")
     print("Program Menghitung Luas dan Keliling Lingkaran")
-    print("---------------Mohamad Irvan Zidni---------------")
-    print("--------------------312210308--------------------")
+    print("---------------ADITYA ACHYA ANANTA NUR---------------")
+    print("--------------------312210714--------------------")
 
 4. Membuat proses inputan jari-jari oleh user
 
-![Input](Foto/Proses%20Input.png)
+![4](https://user-images.githubusercontent.com/123864099/215337406-ee45b54b-07b8-458d-a745-efc8552fe00c.PNG)
 
     #user memasukkan nilai jari-jari pada lingkaran
     r = float(input("Masukkan Jari-jari : "))
 
 5. Membuat proses perhitungan luas dan keliling
 
-![Hitung](Foto/Proses%20Hitung.png)
+![5](https://user-images.githubusercontent.com/123864099/215337467-511afea2-17ca-4a85-9b63-362274b859a6.png)
+
 
     #rumus perhitungan luas & keliling 
     luas = math.pi*r*r
@@ -192,12 +194,20 @@ Output :
 
 6. Run program yang sudah dibuat
 
-![Run](Foto/Run%20Program.png)
+![7](https://user-images.githubusercontent.com/123864099/215337758-277c075b-084f-45c7-b5c6-c529cde611b6.png)
+
 
 7. Tampilan hasil ke layar
 
-![Output](Foto/Output%20Program.png)
+![6](https://user-images.githubusercontent.com/123864099/215337763-7f5b198d-e268-48d9-877c-8d139e8c15a1.PNG)
+
 
 # Flowchart Menghitung Luas dan Keliling Lingkaran
 
-![Flowchart](Foto/Flowchart.py.png)
+![Flowchart py](https://user-images.githubusercontent.com/123864099/215337779-6a754dee-12b3-4cb5-9e26-a30b04c6ea06.png)
+
+Sekian yang dapat saya sampaikan.
+
+## TERIMA KASIH
+### ADITYA ACHYA ANANTA NUR - 312210714 - TI.22.C. - TEKNIK INFORMATIKA - UNIVERSITAS PELITA BANGSA
+
