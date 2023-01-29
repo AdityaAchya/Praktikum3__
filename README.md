@@ -7,18 +7,12 @@ NIM : 312210714
 
 Kelas : TI.22.C.9
 
-| No | Daftar Isi | Link |
-| -- | ---------- | ---- |
-| 1  | Latihan 1 | [Click Here]https://github.com/AdityaAchya/Praktikum3#latihan-1)|
-| 2  | Latihan 2 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum3#latihan-2) |
-| 3  | Latihan 3 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum3#latihan-3) |
-| 4  | Latihan Menghitung Lingkaran | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum3#program-menghitung-luas-dan-keliling-lingkaran-menggunakan-python) |
-
 # Latihan 1
 
 1. Penggunaan End
 
-![Code](Foto/Penggunaan%20End.png)
+![1](https://user-images.githubusercontent.com/123864099/215335104-da321511-062c-4f3b-a207-6c2c2d039e54.png)
+
 
     #penggunaan end
     print('A', end='')
@@ -31,11 +25,13 @@ Kelas : TI.22.C.9
 
 Output :
 
-![Output](Foto/Output%20Penggunaan%20End.png)
+![2](https://user-images.githubusercontent.com/123864099/215335343-cf72b074-2029-41ee-aace-5fae1cb95207.png)
+
 
 2. Penggunaan Separator
 
-![Code](Foto/Penggunaan%20Separator.png)
+![Penggunaan Separator](https://user-images.githubusercontent.com/123864099/215335365-160603de-f8e3-44ad-9f65-60ece06e4442.png)
+
 
     #penggunaan separator
     w, x, y, z = 10, 15, 20, 25
@@ -47,11 +43,14 @@ Output :
 
 Output :
 
-![Output](Foto/Output%20Penggunaan%20Separator.png)
+
+![Penggunaan Separator](https://user-images.githubusercontent.com/123864099/215335464-ce0fb95c-9976-4c9f-9b58-a8b62efe7583.png)
+
 
 3. Penggunaan String -1
 
-![Code](Foto/String%20Format.png)
+![String Format](https://user-images.githubusercontent.com/123864099/215335547-786907d1-3ebc-412d-966a-3f4d391d57db.png)
+
 
     #string format
     print(0, 10**0)
@@ -68,11 +67,14 @@ Output :
 
 Output :
 
-![Output](Foto/Output%20String%20Format.png)
+
+![Output String Format](https://user-images.githubusercontent.com/123864099/215335575-32433530-884b-4d5f-b4f4-0bd9b9e52ca5.png)
+
 
 4. Penggunaan String -2
 
-![Code](Foto/String%20Format1.png)
+![String Format1](https://user-images.githubusercontent.com/123864099/215335594-f352fb7f-b90d-4431-b390-ba407aaf586c.png)
+
 
     #string format
     print('{0:>3} {1:>16}'. format(0, 10**0))
@@ -89,7 +91,8 @@ Output :
 
 Output :
 
-![Output](Foto/Output%20String%20Format1.png)
+![Output String Format1](https://user-images.githubusercontent.com/123864099/215335618-54f63215-ab54-40ef-802b-738652cb3a4f.png)
+
 
 # Latihan 2
 
